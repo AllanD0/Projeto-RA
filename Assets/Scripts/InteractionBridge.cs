@@ -75,4 +75,10 @@ public class InteractionBridge : MonoBehaviour
             SetModelColor(Color.white);
         }
     }
+   
+    public void SetModelColorGreen()
+    {
+      
+        SetModelColor(Color.green);
+    }
 }
